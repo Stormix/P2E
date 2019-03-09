@@ -1,0 +1,4 @@
+autopep8==1.4.3
+numpy==1.16.2
+pycodestyle==2.5.0
+pyserial==3.4
